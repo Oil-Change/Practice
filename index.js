@@ -3,3 +3,5 @@ const fun = () => {
 }
 
 fun()
+
+const whatupDudes = 'WhatUp my Dudes?!';
